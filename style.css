@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaijaan|Mali|Patrick+Hand');
+
+/* element selector */
+h1{
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+    font-weight: bold;
+    text-align: center;
+    font-size: 3em;
+    color:pink;
+
+}
+.article-title {
+    text-transform: uppercase;
+    color: blueviolet;
+    font-family: 'Mali', cursive;
+	text-align: center;
+}
+
+h3{
+    font-family: 'Mali', cursive;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.3em;
+    color: blue;
+  }
+  
+ol{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+    color:skyblue;
+  }
+
+p{ 
+    font-size:17px;
+
+}
+footer{
+	color:violet;
+}
